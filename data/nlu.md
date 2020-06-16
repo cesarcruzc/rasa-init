@@ -54,3 +54,21 @@
 - are you a human?
 - am I talking to a bot?
 - am I talking to a human?
+
+## intent:inform
+- [Sitka](location)
+- [Juneau](location)
+- [Virginia](location)
+- [Cusseta](location)
+- [Chicago](location)
+- [Tuscon](location)
+- [Columbus](location)
+- [San Francisco](location)
+
+## intent:search_provider
+- I need a [hospital](facility_type)
+- find me a nearby [hospital](facility_type)
+- shoe me [home health agencies](facility_type)
+- [hospital](facility_type)
+- find me a nearby [hospital](facility_type) in [San Francisco](location)
+- I need a [home health agency](facility_type)
