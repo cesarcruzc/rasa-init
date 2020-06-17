@@ -3,6 +3,7 @@
   - utter_greet
 * search_provider{"facility_type":"hospital", "location":"San Francisco"}
   - action_facility_search
+  - slot{"address":"300 Hyde St, San Francisco"}
 * thanks
   - utter_goodbye
   
